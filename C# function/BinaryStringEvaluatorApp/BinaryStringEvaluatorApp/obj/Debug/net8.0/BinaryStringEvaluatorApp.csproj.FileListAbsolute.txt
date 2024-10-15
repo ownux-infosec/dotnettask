@@ -1,0 +1,14 @@
+D:\Other\Task\C# function\BinaryStringEvaluatorApp\BinaryStringEvaluatorApp\bin\Debug\net8.0\BinaryStringEvaluatorApp.exe
+D:\Other\Task\C# function\BinaryStringEvaluatorApp\BinaryStringEvaluatorApp\bin\Debug\net8.0\BinaryStringEvaluatorApp.deps.json
+D:\Other\Task\C# function\BinaryStringEvaluatorApp\BinaryStringEvaluatorApp\bin\Debug\net8.0\BinaryStringEvaluatorApp.runtimeconfig.json
+D:\Other\Task\C# function\BinaryStringEvaluatorApp\BinaryStringEvaluatorApp\bin\Debug\net8.0\BinaryStringEvaluatorApp.dll
+D:\Other\Task\C# function\BinaryStringEvaluatorApp\BinaryStringEvaluatorApp\bin\Debug\net8.0\BinaryStringEvaluatorApp.pdb
+D:\Other\Task\C# function\BinaryStringEvaluatorApp\BinaryStringEvaluatorApp\obj\Debug\net8.0\BinaryStringEvaluatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Other\Task\C# function\BinaryStringEvaluatorApp\BinaryStringEvaluatorApp\obj\Debug\net8.0\BinaryStringEvaluatorApp.AssemblyInfoInputs.cache
+D:\Other\Task\C# function\BinaryStringEvaluatorApp\BinaryStringEvaluatorApp\obj\Debug\net8.0\BinaryStringEvaluatorApp.AssemblyInfo.cs
+D:\Other\Task\C# function\BinaryStringEvaluatorApp\BinaryStringEvaluatorApp\obj\Debug\net8.0\BinaryStringEvaluatorApp.csproj.CoreCompileInputs.cache
+D:\Other\Task\C# function\BinaryStringEvaluatorApp\BinaryStringEvaluatorApp\obj\Debug\net8.0\BinaryStringEvaluatorApp.dll
+D:\Other\Task\C# function\BinaryStringEvaluatorApp\BinaryStringEvaluatorApp\obj\Debug\net8.0\refint\BinaryStringEvaluatorApp.dll
+D:\Other\Task\C# function\BinaryStringEvaluatorApp\BinaryStringEvaluatorApp\obj\Debug\net8.0\BinaryStringEvaluatorApp.pdb
+D:\Other\Task\C# function\BinaryStringEvaluatorApp\BinaryStringEvaluatorApp\obj\Debug\net8.0\BinaryStringEvaluatorApp.genruntimeconfig.cache
+D:\Other\Task\C# function\BinaryStringEvaluatorApp\BinaryStringEvaluatorApp\obj\Debug\net8.0\ref\BinaryStringEvaluatorApp.dll

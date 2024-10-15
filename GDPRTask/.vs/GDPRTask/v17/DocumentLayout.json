@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Other\\Task\\GDPRTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62065B56-C972-47AD-8FCC-9563D2D7F549}|GDPRTask\\GDPRTask.csproj|d:\\other\\task\\gdprtask\\gdprtask\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62065B56-C972-47AD-8FCC-9563D2D7F549}|GDPRTask\\GDPRTask.csproj|solutionrelative:gdprtask\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BC053C-A21F-4602-AE84-D0381B244F6A}|GDPRTask.Data\\GDPRTask.Data.csproj|d:\\other\\task\\gdprtask\\gdprtask.data\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BC053C-A21F-4602-AE84-D0381B244F6A}|GDPRTask.Data\\GDPRTask.Data.csproj|solutionrelative:gdprtask.data\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEA35AB-48F7-4FCF-8826-790AD4B17643}|GDPRTask.Service\\GDPRTask.Service.csproj|d:\\other\\task\\gdprtask\\gdprtask.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEA35AB-48F7-4FCF-8826-790AD4B17643}|GDPRTask.Service\\GDPRTask.Service.csproj|solutionrelative:gdprtask.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEA35AB-48F7-4FCF-8826-790AD4B17643}|GDPRTask.Service\\GDPRTask.Service.csproj|d:\\other\\task\\gdprtask\\gdprtask.service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEA35AB-48F7-4FCF-8826-790AD4B17643}|GDPRTask.Service\\GDPRTask.Service.csproj|solutionrelative:gdprtask.service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BC053C-A21F-4602-AE84-D0381B244F6A}|GDPRTask.Data\\GDPRTask.Data.csproj|d:\\other\\task\\gdprtask\\gdprtask.data\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BC053C-A21F-4602-AE84-D0381B244F6A}|GDPRTask.Data\\GDPRTask.Data.csproj|solutionrelative:gdprtask.data\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62065B56-C972-47AD-8FCC-9563D2D7F549}|GDPRTask\\GDPRTask.csproj|d:\\other\\task\\gdprtask\\gdprtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62065B56-C972-47AD-8FCC-9563D2D7F549}|GDPRTask\\GDPRTask.csproj|solutionrelative:gdprtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62065B56-C972-47AD-8FCC-9563D2D7F549}|GDPRTask\\GDPRTask.csproj|d:\\other\\task\\gdprtask\\gdprtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62065B56-C972-47AD-8FCC-9563D2D7F549}|GDPRTask\\GDPRTask.csproj|solutionrelative:gdprtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62065B56-C972-47AD-8FCC-9563D2D7F549}|GDPRTask\\GDPRTask.csproj|d:\\other\\task\\gdprtask\\gdprtask\\controllers\\task2binaryidentidycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62065B56-C972-47AD-8FCC-9563D2D7F549}|GDPRTask\\GDPRTask.csproj|solutionrelative:gdprtask\\controllers\\task2binaryidentidycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Other\\Task\\GDPRTask\\GDPRTask.Data\\Model\\User.cs",
+              "RelativeDocumentMoniker": "GDPRTask.Data\\Model\\User.cs",
+              "ToolTip": "D:\\Other\\Task\\GDPRTask\\GDPRTask.Data\\Model\\User.cs",
+              "RelativeToolTip": "GDPRTask.Data\\Model\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:22:50.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Other\\Task\\GDPRTask\\GDPRTask\\appsettings.json",
+              "RelativeDocumentMoniker": "GDPRTask\\appsettings.json",
+              "ToolTip": "D:\\Other\\Task\\GDPRTask\\GDPRTask\\appsettings.json",
+              "RelativeToolTip": "GDPRTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T09:56:16.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Other\\Task\\GDPRTask\\GDPRTask.Service\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "GDPRTask.Service\\Services\\UserService.cs",
+              "ToolTip": "D:\\Other\\Task\\GDPRTask\\GDPRTask.Service\\Services\\UserService.cs",
+              "RelativeToolTip": "GDPRTask.Service\\Services\\UserService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:46:08.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Other\\Task\\GDPRTask\\GDPRTask\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "GDPRTask\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Other\\Task\\GDPRTask\\GDPRTask\\Controllers\\UserController.cs",
+              "RelativeToolTip": "GDPRTask\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAswFkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:44:50.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Other\\Task\\GDPRTask\\GDPRTask.Data\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "GDPRTask.Data\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Other\\Task\\GDPRTask\\GDPRTask.Data\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "GDPRTask.Data\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwCEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:02:17.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Other\\Task\\GDPRTask\\GDPRTask\\Program.cs",
+              "RelativeDocumentMoniker": "GDPRTask\\Program.cs",
+              "ToolTip": "D:\\Other\\Task\\GDPRTask\\GDPRTask\\Program.cs",
+              "RelativeToolTip": "GDPRTask\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:58:29.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Other\\Task\\GDPRTask\\GDPRTask.Service\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "GDPRTask.Service\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\Other\\Task\\GDPRTask\\GDPRTask.Service\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "GDPRTask.Service\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAMwBAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:57:54.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task2BinaryIdentidyController.cs",
+              "DocumentMoniker": "D:\\Other\\Task\\GDPRTask\\GDPRTask\\Controllers\\Task2BinaryIdentidyController.cs",
+              "RelativeDocumentMoniker": "GDPRTask\\Controllers\\Task2BinaryIdentidyController.cs",
+              "ToolTip": "D:\\Other\\Task\\GDPRTask\\GDPRTask\\Controllers\\Task2BinaryIdentidyController.cs",
+              "RelativeToolTip": "GDPRTask\\Controllers\\Task2BinaryIdentidyController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:41:57.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

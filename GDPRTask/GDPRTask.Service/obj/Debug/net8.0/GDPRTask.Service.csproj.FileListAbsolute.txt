@@ -1,0 +1,15 @@
+D:\Other\Task\GDPRTask\GDPRTask.Service\bin\Debug\net8.0\GDPRTask.Service.deps.json
+D:\Other\Task\GDPRTask\GDPRTask.Service\bin\Debug\net8.0\GDPRTask.Service.dll
+D:\Other\Task\GDPRTask\GDPRTask.Service\bin\Debug\net8.0\GDPRTask.Service.pdb
+D:\Other\Task\GDPRTask\GDPRTask.Service\bin\Debug\net8.0\GDPRTask.Data.dll
+D:\Other\Task\GDPRTask\GDPRTask.Service\bin\Debug\net8.0\GDPRTask.Data.pdb
+D:\Other\Task\GDPRTask\GDPRTask.Service\obj\Debug\net8.0\GDPRTask.Service.csproj.AssemblyReference.cache
+D:\Other\Task\GDPRTask\GDPRTask.Service\obj\Debug\net8.0\GDPRTask.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Other\Task\GDPRTask\GDPRTask.Service\obj\Debug\net8.0\GDPRTask.Service.AssemblyInfoInputs.cache
+D:\Other\Task\GDPRTask\GDPRTask.Service\obj\Debug\net8.0\GDPRTask.Service.AssemblyInfo.cs
+D:\Other\Task\GDPRTask\GDPRTask.Service\obj\Debug\net8.0\GDPRTask.Service.csproj.CoreCompileInputs.cache
+D:\Other\Task\GDPRTask\GDPRTask.Service\obj\Debug\net8.0\GDPRTask.080C29CA.Up2Date
+D:\Other\Task\GDPRTask\GDPRTask.Service\obj\Debug\net8.0\GDPRTask.Service.dll
+D:\Other\Task\GDPRTask\GDPRTask.Service\obj\Debug\net8.0\refint\GDPRTask.Service.dll
+D:\Other\Task\GDPRTask\GDPRTask.Service\obj\Debug\net8.0\GDPRTask.Service.pdb
+D:\Other\Task\GDPRTask\GDPRTask.Service\obj\Debug\net8.0\ref\GDPRTask.Service.dll
